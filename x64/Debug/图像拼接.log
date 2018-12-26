@@ -1,0 +1,16 @@
+﻿  main.cpp
+e:\win32code\图像拼接\图像拼接\main.cpp(35): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\win32code\图像拼接\图像拼接\main.cpp(36): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\win32code\图像拼接\图像拼接\main.cpp(45): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\win32code\图像拼接\图像拼接\main.cpp(46): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\win32code\图像拼接\图像拼接\main.cpp(55): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\win32code\图像拼接\图像拼接\main.cpp(56): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\win32code\图像拼接\图像拼接\main.cpp(65): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\win32code\图像拼接\图像拼接\main.cpp(66): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\win32code\图像拼接\图像拼接\main.cpp(145): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+e:\win32code\图像拼接\图像拼接\main.cpp(175): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+e:\win32code\图像拼接\图像拼接\main.cpp(200): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+e:\win32code\图像拼接\图像拼接\main.cpp(201): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+e:\win32code\图像拼接\图像拼接\main.cpp(202): warning C4244: “=”: 从“double”转换到“uchar”，可能丢失数据
+  图像拼接.vcxproj -> E:\win32code\图像拼接\x64\Debug\图像拼接.exe
+  图像拼接.vcxproj -> E:\win32code\图像拼接\x64\Debug\图像拼接.pdb (Full PDB)
